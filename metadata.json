@@ -1,0 +1,6 @@
+{
+  "name": "Workout Logger & Analytics",
+  "description": "A pristine offline-first workout app featuring an interactive 2:1 calendar layout, 48-hour muscle stimulation frequency tracker, and customizable volume metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
